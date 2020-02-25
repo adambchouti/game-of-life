@@ -1,0 +1,12 @@
+.cells-container {
+  border-collapse: collapse;
+  margin: auto;
+  background-color: white;
+
+  .cell {
+    height: 15px;
+    width: 15px;
+    border: 1px solid;
+  }
+}
+
